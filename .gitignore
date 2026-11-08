@@ -1,0 +1,6 @@
+venv/
+models/
+output/
+agent_state.db
+__pycache__/
+*.pyc
