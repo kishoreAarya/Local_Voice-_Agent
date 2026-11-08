@@ -1,0 +1,7 @@
+# Large Model Files & Binaries
+*.gguf
+*.bin
+whisper.cpp/
+__pycache__/
+*.wav
+voice_log.txt
